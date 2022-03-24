@@ -7,11 +7,13 @@
 /fileinfo\.(com|it|jp)/
 *://*.filemagic.com/*
 *://*.fileregistry.org/*
+*://*.filesuffix.com/*
 *://*.filetypeadvisor.com/*
 *://*.filetypes.jp/*
 *://*.fileviewpro.com/*
 *://*.filext.com/*
 *://*.openthefile.net/*
+*://*.solvusoft.com/*
 *://*.submitfile.com/*
 *://*.whatisfileextension.com/*
 *://*.wondershare.jp/*
