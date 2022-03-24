@@ -2,9 +2,8 @@
 *://*.comeaprire.com/*
 *://*.extensionfile.net/*
 *://*.fes.wiki/*
-*://*.file-extension.info/*
+/file-?extensions?\.(info|org)/
 *://*.file.tips/*
-*://*.fileextensions.info/*
 /fileinfo\.(com|it|jp)/
 *://*.filemagic.com/*
 *://*.fileregistry.org/*
@@ -14,4 +13,5 @@
 *://*.filext.com/*
 *://*.openthefile.net/*
 *://*.submitfile.com/*
+*://*.whatisfileextension.com/*
 *://*.wondershare.jp/*
