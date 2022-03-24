@@ -2,6 +2,7 @@
 *://*.comeaprire.com/*
 *://*.extensionfile.net/*
 *://*.fes.wiki/*
+*://*.file-extension.info/*
 *://*.file.tips/*
 /fileinfo\.(com|it|jp)/
 *://*.filemagic.com/*
