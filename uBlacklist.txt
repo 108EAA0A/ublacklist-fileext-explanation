@@ -4,6 +4,7 @@
 *://*.fes.wiki/*
 *://*.file-extension.info/*
 *://*.file.tips/*
+*://*.fileextensions.info/*
 /fileinfo\.(com|it|jp)/
 *://*.filemagic.com/*
 *://*.fileregistry.org/*
