@@ -1,0 +1,15 @@
+*://*.aprico-media.com/*
+*://*.comeaprire.com/*
+*://*.extensionfile.net/*
+*://*.fes.wiki/*
+*://*.file.tips/*
+/fileinfo\.(com|it|jp)/
+*://*.filemagic.com/*
+*://*.fileregistry.org/*
+*://*.filetypeadvisor.com/*
+*://*.filetypes.jp/*
+*://*.fileviewpro.com/*
+*://*.filext.com/*
+*://*.openthefile.net/*
+*://*.submitfile.com/*
+*://*.wondershare.jp/*
